@@ -1,0 +1,12 @@
+{
+    "outColnames": ["result",
+        "Gene", 
+        "location", 
+        "phenotype", 
+        "inheritance"
+    ],
+    "extraColnames": ["mimNumber",
+        "mappingKey", 
+        "description"
+    ]
+} 
